@@ -1,0 +1,71 @@
+version: '3'
+services:
+    nginx:
+        container_name: nginx
+        image: nginx:latest
+        networks:
+            - first
+            - second
+        ports:
+            - "80:80"
+            - "443:80"
+
+        volumes:
+            - ./hosts:/etc/nginx/conf.d
+            - ./www:/var/www
+            - ./logs/nginx:/var/log/nginx
+        restart: always
+        links:
+            - php
+
+
+    php:
+        container_name: php
+        build: ./images/php
+        networks:
+            - second
+        links:
+            - db
+        volumes:
+            - ./www:/var/www
+        restart: always
+
+    db:
+      container_name: mysql
+      image: mysql
+      networks:
+        - second
+      volumes:
+        - /etc/mysql:/etc/mysql
+        - ./logs/mysql:/var/log/mysql
+        - ./mysql:/var/lib/mysql
+        - ./mysql-files:/var/lib/mysql-files
+        - ./data:/docker-entrypoint-initdb.d
+      environment:
+        - MYSQL_DATABASE=db-data
+        - MYSQL_USER=root
+        - MYSQL_PASSWORD=random
+        - MYSQL_ROOT_PASSWORD=random
+      ports:
+        - 3306:3306
+      restart: always
+
+    phpmyadmin:
+      container_name: myadmin
+      image: phpmyadmin/phpmyadmin
+      networks:
+        - first
+        - second
+      ports:
+        - 8080:80
+      links:
+        - "db:db"
+      restart: always
+
+
+networks:
+  first:
+    external:
+        name: first
+
+  second:

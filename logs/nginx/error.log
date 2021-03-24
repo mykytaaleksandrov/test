@@ -1,0 +1,176 @@
+2021/03/23 19:18:59 [error] 22#22: *1 "/var/www/first.domain,com.conf/index.php" is not found (2: No such file or directory), client: 172.29.0.1, server: hello.dev, request: "GET / HTTP/1.1", host: "localhost"
+2021/03/23 19:19:00 [error] 22#22: *1 "/var/www/first.domain,com.conf/index.php" is not found (2: No such file or directory), client: 172.29.0.1, server: hello.dev, request: "GET / HTTP/1.1", host: "localhost"
+2021/03/23 19:19:01 [error] 22#22: *1 "/var/www/first.domain,com.conf/index.php" is not found (2: No such file or directory), client: 172.29.0.1, server: hello.dev, request: "GET / HTTP/1.1", host: "localhost"
+2021/03/23 19:19:01 [error] 22#22: *1 "/var/www/first.domain,com.conf/index.php" is not found (2: No such file or directory), client: 172.29.0.1, server: hello.dev, request: "GET / HTTP/1.1", host: "localhost"
+2021/03/23 19:19:01 [error] 22#22: *1 "/var/www/first.domain,com.conf/index.php" is not found (2: No such file or directory), client: 172.29.0.1, server: hello.dev, request: "GET / HTTP/1.1", host: "localhost"
+2021/03/23 19:19:01 [error] 22#22: *1 "/var/www/first.domain,com.conf/index.php" is not found (2: No such file or directory), client: 172.29.0.1, server: hello.dev, request: "GET / HTTP/1.1", host: "localhost"
+2021/03/23 19:19:02 [error] 22#22: *1 "/var/www/first.domain,com.conf/index.php" is not found (2: No such file or directory), client: 172.29.0.1, server: hello.dev, request: "GET / HTTP/1.1", host: "localhost"
+2021/03/23 19:19:02 [error] 22#22: *1 "/var/www/first.domain,com.conf/index.php" is not found (2: No such file or directory), client: 172.29.0.1, server: hello.dev, request: "GET / HTTP/1.1", host: "localhost"
+2021/03/23 19:19:02 [error] 22#22: *1 "/var/www/first.domain,com.conf/index.php" is not found (2: No such file or directory), client: 172.29.0.1, server: hello.dev, request: "GET / HTTP/1.1", host: "localhost"
+2021/03/23 19:19:03 [error] 22#22: *1 "/var/www/first.domain,com.conf/index.php" is not found (2: No such file or directory), client: 172.29.0.1, server: hello.dev, request: "GET / HTTP/1.1", host: "localhost"
+2021/03/23 19:19:03 [error] 22#22: *1 "/var/www/first.domain,com.conf/index.php" is not found (2: No such file or directory), client: 172.29.0.1, server: hello.dev, request: "GET / HTTP/1.1", host: "localhost"
+2021/03/23 19:19:03 [error] 22#22: *1 "/var/www/first.domain,com.conf/index.php" is not found (2: No such file or directory), client: 172.29.0.1, server: hello.dev, request: "GET / HTTP/1.1", host: "localhost"
+2021/03/23 19:19:03 [error] 22#22: *1 "/var/www/first.domain,com.conf/index.php" is not found (2: No such file or directory), client: 172.29.0.1, server: hello.dev, request: "GET / HTTP/1.1", host: "localhost"
+2021/03/23 19:19:03 [error] 22#22: *1 "/var/www/first.domain,com.conf/index.php" is not found (2: No such file or directory), client: 172.29.0.1, server: hello.dev, request: "GET / HTTP/1.1", host: "localhost"
+2021/03/23 19:19:03 [error] 22#22: *1 "/var/www/first.domain,com.conf/index.php" is not found (2: No such file or directory), client: 172.29.0.1, server: hello.dev, request: "GET / HTTP/1.1", host: "localhost"
+2021/03/23 19:19:04 [error] 22#22: *1 "/var/www/first.domain,com.conf/index.php" is not found (2: No such file or directory), client: 172.29.0.1, server: hello.dev, request: "GET / HTTP/1.1", host: "localhost"
+2021/03/23 19:19:04 [error] 22#22: *1 "/var/www/first.domain,com.conf/index.php" is not found (2: No such file or directory), client: 172.29.0.1, server: hello.dev, request: "GET / HTTP/1.1", host: "localhost"
+2021/03/23 19:19:04 [error] 22#22: *1 "/var/www/first.domain,com.conf/index.php" is not found (2: No such file or directory), client: 172.29.0.1, server: hello.dev, request: "GET / HTTP/1.1", host: "localhost"
+2021/03/23 19:19:04 [error] 22#22: *1 "/var/www/first.domain,com.conf/index.php" is not found (2: No such file or directory), client: 172.29.0.1, server: hello.dev, request: "GET / HTTP/1.1", host: "localhost"
+2021/03/23 19:19:05 [error] 22#22: *1 "/var/www/first.domain,com.conf/index.php" is not found (2: No such file or directory), client: 172.29.0.1, server: hello.dev, request: "GET / HTTP/1.1", host: "localhost"
+2021/03/23 19:19:05 [error] 22#22: *1 "/var/www/first.domain,com.conf/index.php" is not found (2: No such file or directory), client: 172.29.0.1, server: hello.dev, request: "GET / HTTP/1.1", host: "localhost"
+2021/03/23 19:19:05 [error] 22#22: *1 "/var/www/first.domain,com.conf/index.php" is not found (2: No such file or directory), client: 172.29.0.1, server: hello.dev, request: "GET / HTTP/1.1", host: "localhost"
+2021/03/23 19:19:05 [error] 22#22: *1 "/var/www/first.domain,com.conf/index.php" is not found (2: No such file or directory), client: 172.29.0.1, server: hello.dev, request: "GET / HTTP/1.1", host: "localhost"
+2021/03/23 19:19:05 [error] 22#22: *1 "/var/www/first.domain,com.conf/index.php" is not found (2: No such file or directory), client: 172.29.0.1, server: hello.dev, request: "GET / HTTP/1.1", host: "localhost"
+2021/03/23 19:19:05 [error] 22#22: *1 "/var/www/first.domain,com.conf/index.php" is not found (2: No such file or directory), client: 172.29.0.1, server: hello.dev, request: "GET / HTTP/1.1", host: "localhost"
+2021/03/23 19:19:06 [error] 22#22: *1 "/var/www/first.domain,com.conf/index.php" is not found (2: No such file or directory), client: 172.29.0.1, server: hello.dev, request: "GET / HTTP/1.1", host: "localhost"
+2021/03/23 19:19:06 [error] 22#22: *1 "/var/www/first.domain,com.conf/index.php" is not found (2: No such file or directory), client: 172.29.0.1, server: hello.dev, request: "GET / HTTP/1.1", host: "localhost"
+2021/03/23 19:47:42 [error] 22#22: *1 "/var/www/first.domain.com.conf/index.php" is not found (2: No such file or directory), client: 192.168.48.1, server: first.domain.com, request: "GET / HTTP/1.1", host: "first.domain.com"
+2021/03/23 19:47:45 [error] 22#22: *1 "/var/www/first.domain.com.conf/index.php" is not found (2: No such file or directory), client: 192.168.48.1, server: first.domain.com, request: "GET / HTTP/1.1", host: "first.domain.com"
+2021/03/23 19:47:45 [error] 22#22: *1 "/var/www/first.domain.com.conf/index.php" is not found (2: No such file or directory), client: 192.168.48.1, server: first.domain.com, request: "GET / HTTP/1.1", host: "first.domain.com"
+2021/03/23 19:47:45 [error] 22#22: *1 "/var/www/first.domain.com.conf/index.php" is not found (2: No such file or directory), client: 192.168.48.1, server: first.domain.com, request: "GET / HTTP/1.1", host: "first.domain.com"
+2021/03/23 19:47:46 [error] 22#22: *1 "/var/www/first.domain.com.conf/index.php" is not found (2: No such file or directory), client: 192.168.48.1, server: first.domain.com, request: "GET / HTTP/1.1", host: "first.domain.com"
+2021/03/23 19:47:46 [error] 22#22: *1 "/var/www/first.domain.com.conf/index.php" is not found (2: No such file or directory), client: 192.168.48.1, server: first.domain.com, request: "GET / HTTP/1.1", host: "first.domain.com"
+2021/03/23 19:47:46 [error] 22#22: *1 "/var/www/first.domain.com.conf/index.php" is not found (2: No such file or directory), client: 192.168.48.1, server: first.domain.com, request: "GET / HTTP/1.1", host: "first.domain.com"
+2021/03/23 19:47:47 [error] 22#22: *1 "/var/www/first.domain.com.conf/index.php" is not found (2: No such file or directory), client: 192.168.48.1, server: first.domain.com, request: "GET / HTTP/1.1", host: "first.domain.com"
+2021/03/23 19:47:47 [error] 22#22: *1 "/var/www/first.domain.com.conf/index.php" is not found (2: No such file or directory), client: 192.168.48.1, server: first.domain.com, request: "GET / HTTP/1.1", host: "first.domain.com"
+2021/03/23 19:47:47 [error] 22#22: *1 "/var/www/first.domain.com.conf/index.php" is not found (2: No such file or directory), client: 192.168.48.1, server: first.domain.com, request: "GET / HTTP/1.1", host: "first.domain.com"
+2021/03/23 19:47:47 [error] 22#22: *1 "/var/www/first.domain.com.conf/index.php" is not found (2: No such file or directory), client: 192.168.48.1, server: first.domain.com, request: "GET / HTTP/1.1", host: "first.domain.com"
+2021/03/23 19:47:47 [error] 22#22: *1 "/var/www/first.domain.com.conf/index.php" is not found (2: No such file or directory), client: 192.168.48.1, server: first.domain.com, request: "GET / HTTP/1.1", host: "first.domain.com"
+2021/03/23 19:47:48 [error] 22#22: *1 "/var/www/first.domain.com.conf/index.php" is not found (2: No such file or directory), client: 192.168.48.1, server: first.domain.com, request: "GET / HTTP/1.1", host: "first.domain.com"
+2021/03/23 19:47:48 [error] 22#22: *1 "/var/www/first.domain.com.conf/index.php" is not found (2: No such file or directory), client: 192.168.48.1, server: first.domain.com, request: "GET / HTTP/1.1", host: "first.domain.com"
+2021/03/23 19:47:48 [error] 22#22: *1 "/var/www/first.domain.com.conf/index.php" is not found (2: No such file or directory), client: 192.168.48.1, server: first.domain.com, request: "GET / HTTP/1.1", host: "first.domain.com"
+2021/03/23 19:47:48 [error] 22#22: *1 "/var/www/first.domain.com.conf/index.php" is not found (2: No such file or directory), client: 192.168.48.1, server: first.domain.com, request: "GET / HTTP/1.1", host: "first.domain.com"
+2021/03/23 19:47:49 [error] 22#22: *1 "/var/www/first.domain.com.conf/index.php" is not found (2: No such file or directory), client: 192.168.48.1, server: first.domain.com, request: "GET / HTTP/1.1", host: "first.domain.com"
+2021/03/23 19:47:49 [error] 22#22: *1 "/var/www/first.domain.com.conf/index.php" is not found (2: No such file or directory), client: 192.168.48.1, server: first.domain.com, request: "GET / HTTP/1.1", host: "first.domain.com"
+2021/03/23 19:47:49 [error] 22#22: *1 "/var/www/first.domain.com.conf/index.php" is not found (2: No such file or directory), client: 192.168.48.1, server: first.domain.com, request: "GET / HTTP/1.1", host: "first.domain.com"
+2021/03/23 19:47:49 [error] 22#22: *1 "/var/www/first.domain.com.conf/index.php" is not found (2: No such file or directory), client: 192.168.48.1, server: first.domain.com, request: "GET / HTTP/1.1", host: "first.domain.com"
+2021/03/23 19:47:49 [error] 22#22: *1 "/var/www/first.domain.com.conf/index.php" is not found (2: No such file or directory), client: 192.168.48.1, server: first.domain.com, request: "GET / HTTP/1.1", host: "first.domain.com"
+2021/03/23 19:47:50 [error] 22#22: *1 "/var/www/first.domain.com.conf/index.php" is not found (2: No such file or directory), client: 192.168.48.1, server: first.domain.com, request: "GET / HTTP/1.1", host: "first.domain.com"
+2021/03/23 19:47:50 [error] 22#22: *1 "/var/www/first.domain.com.conf/index.php" is not found (2: No such file or directory), client: 192.168.48.1, server: first.domain.com, request: "GET / HTTP/1.1", host: "first.domain.com"
+2021/03/23 19:47:50 [error] 22#22: *1 "/var/www/first.domain.com.conf/index.php" is not found (2: No such file or directory), client: 192.168.48.1, server: first.domain.com, request: "GET / HTTP/1.1", host: "first.domain.com"
+2021/03/23 19:47:50 [error] 22#22: *1 "/var/www/first.domain.com.conf/index.php" is not found (2: No such file or directory), client: 192.168.48.1, server: first.domain.com, request: "GET / HTTP/1.1", host: "first.domain.com"
+2021/03/23 19:47:50 [error] 22#22: *1 "/var/www/first.domain.com.conf/index.php" is not found (2: No such file or directory), client: 192.168.48.1, server: first.domain.com, request: "GET / HTTP/1.1", host: "first.domain.com"
+2021/03/23 19:47:51 [error] 22#22: *1 "/var/www/first.domain.com.conf/index.php" is not found (2: No such file or directory), client: 192.168.48.1, server: first.domain.com, request: "GET / HTTP/1.1", host: "first.domain.com"
+2021/03/23 19:47:51 [error] 22#22: *1 "/var/www/first.domain.com.conf/index.php" is not found (2: No such file or directory), client: 192.168.48.1, server: first.domain.com, request: "GET / HTTP/1.1", host: "first.domain.com"
+2021/03/23 19:47:51 [error] 22#22: *1 "/var/www/first.domain.com.conf/index.php" is not found (2: No such file or directory), client: 192.168.48.1, server: first.domain.com, request: "GET / HTTP/1.1", host: "first.domain.com"
+2021/03/23 19:47:51 [error] 22#22: *1 "/var/www/first.domain.com.conf/index.php" is not found (2: No such file or directory), client: 192.168.48.1, server: first.domain.com, request: "GET / HTTP/1.1", host: "first.domain.com"
+2021/03/23 19:48:19 [error] 22#22: *2 "/var/www/first.domain.com.conf/index.php" is not found (2: No such file or directory), client: 192.168.48.1, server: first.domain.com, request: "GET / HTTP/1.1", host: "localhost"
+2021/03/23 19:48:40 [error] 24#24: *1 "/var/www/first.domain.com.conf/index.php" is not found (2: No such file or directory), client: 192.168.64.1, server: first.domain.com, request: "GET / HTTP/1.1", host: "localhost"
+2021/03/23 19:48:41 [error] 24#24: *1 "/var/www/first.domain.com.conf/index.php" is not found (2: No such file or directory), client: 192.168.64.1, server: first.domain.com, request: "GET / HTTP/1.1", host: "localhost"
+2021/03/23 19:48:42 [error] 24#24: *1 "/var/www/first.domain.com.conf/index.php" is not found (2: No such file or directory), client: 192.168.64.1, server: first.domain.com, request: "GET / HTTP/1.1", host: "localhost"
+2021/03/23 19:48:42 [error] 24#24: *1 "/var/www/first.domain.com.conf/index.php" is not found (2: No such file or directory), client: 192.168.64.1, server: first.domain.com, request: "GET / HTTP/1.1", host: "localhost"
+2021/03/23 19:48:42 [error] 24#24: *1 "/var/www/first.domain.com.conf/index.php" is not found (2: No such file or directory), client: 192.168.64.1, server: first.domain.com, request: "GET / HTTP/1.1", host: "localhost"
+2021/03/23 19:48:43 [error] 24#24: *1 "/var/www/first.domain.com.conf/index.php" is not found (2: No such file or directory), client: 192.168.64.1, server: first.domain.com, request: "GET / HTTP/1.1", host: "localhost"
+2021/03/23 19:48:43 [error] 24#24: *1 "/var/www/first.domain.com.conf/index.php" is not found (2: No such file or directory), client: 192.168.64.1, server: first.domain.com, request: "GET / HTTP/1.1", host: "localhost"
+2021/03/23 19:48:43 [error] 24#24: *1 "/var/www/first.domain.com.conf/index.php" is not found (2: No such file or directory), client: 192.168.64.1, server: first.domain.com, request: "GET / HTTP/1.1", host: "localhost"
+2021/03/23 19:48:43 [error] 24#24: *1 "/var/www/first.domain.com.conf/index.php" is not found (2: No such file or directory), client: 192.168.64.1, server: first.domain.com, request: "GET / HTTP/1.1", host: "localhost"
+2021/03/23 19:48:44 [error] 24#24: *1 "/var/www/first.domain.com.conf/index.php" is not found (2: No such file or directory), client: 192.168.64.1, server: first.domain.com, request: "GET / HTTP/1.1", host: "localhost"
+2021/03/23 19:48:44 [error] 24#24: *1 "/var/www/first.domain.com.conf/index.php" is not found (2: No such file or directory), client: 192.168.64.1, server: first.domain.com, request: "GET / HTTP/1.1", host: "localhost"
+2021/03/23 19:48:44 [error] 24#24: *1 "/var/www/first.domain.com.conf/index.php" is not found (2: No such file or directory), client: 192.168.64.1, server: first.domain.com, request: "GET / HTTP/1.1", host: "localhost"
+2021/03/23 19:48:44 [error] 24#24: *1 "/var/www/first.domain.com.conf/index.php" is not found (2: No such file or directory), client: 192.168.64.1, server: first.domain.com, request: "GET / HTTP/1.1", host: "localhost"
+2021/03/23 19:50:11 [error] 24#24: *2 "/var/www/first.domain.com.conf/index.php" is not found (2: No such file or directory), client: 192.168.64.1, server: first.domain.com, request: "GET / HTTP/1.1", host: "localhost"
+2021/03/23 21:11:18 [error] 22#22: *1 "/var/www/first.domain.com.conf/index.html" is not found (2: No such file or directory), client: 192.168.144.1, server: first.domain.com, request: "GET / HTTP/1.1", host: "localhost"
+2021/03/23 21:39:26 [error] 22#22: *1 "/var/www/first.domain.com.conf/index.html" is not found (2: No such file or directory), client: 192.168.144.1, server: first.domain.com, request: "GET / HTTP/1.1", host: "localhost"
+2021/03/23 21:42:48 [error] 22#22: *2 "/var/www/first.domain.com.conf/index.html" is not found (2: No such file or directory), client: 192.168.144.1, server: first.domain.com, request: "GET / HTTP/1.1", host: "localhost"
+2021/03/24 09:34:41 [notice] 41#41: signal process started
+2021/03/24 09:40:32 [emerg] 29#29: host not found in upstream "php" in /etc/nginx/conf.d/second.conf:11
+2021/03/24 09:40:33 [emerg] 30#30: host not found in upstream "php" in /etc/nginx/conf.d/second.conf:11
+2021/03/24 09:40:34 [emerg] 30#30: host not found in upstream "php" in /etc/nginx/conf.d/second.conf:11
+2021/03/24 09:40:35 [emerg] 29#29: host not found in upstream "php" in /etc/nginx/conf.d/second.conf:11
+2021/03/24 09:40:37 [emerg] 30#30: host not found in upstream "php" in /etc/nginx/conf.d/second.conf:11
+2021/03/24 09:40:39 [emerg] 32#32: host not found in upstream "php" in /etc/nginx/conf.d/second.conf:11
+2021/03/24 09:40:43 [emerg] 29#29: host not found in upstream "php" in /etc/nginx/conf.d/second.conf:11
+2021/03/24 09:40:50 [emerg] 29#29: host not found in upstream "php" in /etc/nginx/conf.d/second.conf:11
+2021/03/24 09:41:04 [emerg] 29#29: host not found in upstream "php" in /etc/nginx/conf.d/second.conf:11
+2021/03/24 09:41:31 [emerg] 29#29: host not found in upstream "php" in /etc/nginx/conf.d/second.conf:11
+2021/03/24 09:42:49 [error] 22#22: *17 "/var/www/first.domain.com.conf/index.php" is not found (2: No such file or directory), client: 172.25.0.1, server: first.domain.com, request: "GET / HTTP/1.1", host: "localhost"
+2021/03/24 09:42:51 [error] 22#22: *17 "/var/www/first.domain.com.conf/index.php" is not found (2: No such file or directory), client: 172.25.0.1, server: first.domain.com, request: "GET / HTTP/1.1", host: "localhost"
+2021/03/24 10:05:43 [error] 22#22: *1 "/var/www/first.domain.com.conf/index.php" is not found (2: No such file or directory), client: 172.24.0.1, server: first.domain.com, request: "GET / HTTP/1.1", host: "172.24.0.5"
+2021/03/24 10:05:43 [error] 22#22: *1 open() "/var/www/first.domain.com.conf/favicon.ico" failed (2: No such file or directory), client: 172.24.0.1, server: first.domain.com, request: "GET /favicon.ico HTTP/1.1", host: "172.24.0.5", referrer: "http://172.24.0.5/"
+2021/03/24 10:06:10 [error] 22#22: *1 "/var/www/first.domain.com.conf/index.php" is not found (2: No such file or directory), client: 172.24.0.1, server: first.domain.com, request: "GET / HTTP/1.1", host: "172.24.0.5"
+2021/03/24 10:13:34 [error] 22#22: *3 "/var/www/first.domain.com.conf/index.php" is not found (2: No such file or directory), client: 172.24.0.1, server: first.domain.com, request: "GET / HTTP/1.1", host: "172.24.0.5"
+2021/03/24 10:13:34 [error] 22#22: *3 "/var/www/first.domain.com.conf/index.php" is not found (2: No such file or directory), client: 172.24.0.1, server: first.domain.com, request: "GET / HTTP/1.1", host: "172.24.0.5"
+2021/03/24 10:13:34 [error] 22#22: *3 "/var/www/first.domain.com.conf/index.php" is not found (2: No such file or directory), client: 172.24.0.1, server: first.domain.com, request: "GET / HTTP/1.1", host: "172.24.0.5"
+2021/03/24 10:13:35 [error] 22#22: *3 "/var/www/first.domain.com.conf/index.php" is not found (2: No such file or directory), client: 172.24.0.1, server: first.domain.com, request: "GET / HTTP/1.1", host: "172.24.0.5"
+2021/03/24 10:13:35 [error] 22#22: *3 "/var/www/first.domain.com.conf/index.php" is not found (2: No such file or directory), client: 172.24.0.1, server: first.domain.com, request: "GET / HTTP/1.1", host: "172.24.0.5"
+2021/03/24 10:13:35 [error] 22#22: *3 "/var/www/first.domain.com.conf/index.php" is not found (2: No such file or directory), client: 172.24.0.1, server: first.domain.com, request: "GET / HTTP/1.1", host: "172.24.0.5"
+2021/03/24 10:13:35 [error] 22#22: *3 "/var/www/first.domain.com.conf/index.php" is not found (2: No such file or directory), client: 172.24.0.1, server: first.domain.com, request: "GET / HTTP/1.1", host: "172.24.0.5"
+2021/03/24 10:13:36 [error] 22#22: *3 "/var/www/first.domain.com.conf/index.php" is not found (2: No such file or directory), client: 172.24.0.1, server: first.domain.com, request: "GET / HTTP/1.1", host: "172.24.0.5"
+2021/03/24 10:13:36 [error] 22#22: *3 "/var/www/first.domain.com.conf/index.php" is not found (2: No such file or directory), client: 172.24.0.1, server: first.domain.com, request: "GET / HTTP/1.1", host: "172.24.0.5"
+2021/03/24 10:13:45 [error] 22#22: *4 "/var/www/first.domain.com.conf/index.php" is not found (2: No such file or directory), client: 172.25.0.1, server: first.domain.com, request: "GET / HTTP/1.1", host: "172.24.0.1"
+2021/03/24 10:13:45 [error] 22#22: *4 open() "/var/www/first.domain.com.conf/favicon.ico" failed (2: No such file or directory), client: 172.25.0.1, server: first.domain.com, request: "GET /favicon.ico HTTP/1.1", host: "172.24.0.1", referrer: "http://172.24.0.1/"
+2021/03/24 18:21:45 [error] 22#22: *1 "/var/www/first.domain.com.conf/index.php" is not found (2: No such file or directory), client: 172.22.0.1, server: first.domain.com, request: "GET / HTTP/1.1", host: "localhost"
+2021/03/24 18:21:46 [error] 22#22: *1 "/var/www/first.domain.com.conf/index.php" is not found (2: No such file or directory), client: 172.22.0.1, server: first.domain.com, request: "GET / HTTP/1.1", host: "localhost"
+2021/03/24 18:21:47 [error] 22#22: *1 "/var/www/first.domain.com.conf/index.php" is not found (2: No such file or directory), client: 172.22.0.1, server: first.domain.com, request: "GET / HTTP/1.1", host: "localhost"
+2021/03/24 18:21:47 [error] 22#22: *1 "/var/www/first.domain.com.conf/index.php" is not found (2: No such file or directory), client: 172.22.0.1, server: first.domain.com, request: "GET / HTTP/1.1", host: "localhost"
+2021/03/24 18:21:47 [error] 22#22: *1 "/var/www/first.domain.com.conf/index.php" is not found (2: No such file or directory), client: 172.22.0.1, server: first.domain.com, request: "GET / HTTP/1.1", host: "localhost"
+2021/03/24 18:21:48 [error] 22#22: *1 "/var/www/first.domain.com.conf/index.php" is not found (2: No such file or directory), client: 172.22.0.1, server: first.domain.com, request: "GET / HTTP/1.1", host: "localhost"
+2021/03/24 18:23:16 [error] 22#22: *2 "/var/www/first.domain.com.conf/index.php" is not found (2: No such file or directory), client: 172.22.0.1, server: first.domain.com, request: "GET / HTTP/1.1", host: "localhost"
+2021/03/24 18:23:17 [error] 22#22: *2 "/var/www/first.domain.com.conf/index.php" is not found (2: No such file or directory), client: 172.22.0.1, server: first.domain.com, request: "GET / HTTP/1.1", host: "localhost"
+2021/03/24 18:23:17 [error] 22#22: *2 "/var/www/first.domain.com.conf/index.php" is not found (2: No such file or directory), client: 172.22.0.1, server: first.domain.com, request: "GET / HTTP/1.1", host: "localhost"
+2021/03/24 18:23:18 [error] 22#22: *2 "/var/www/first.domain.com.conf/index.php" is not found (2: No such file or directory), client: 172.22.0.1, server: first.domain.com, request: "GET / HTTP/1.1", host: "localhost"
+2021/03/24 18:50:59 [error] 22#22: *1 "/var/www/first.domain.com.conf/index.php" is not found (2: No such file or directory), client: 172.22.0.1, server: first.domain.com, request: "GET / HTTP/1.1", host: "localhost"
+2021/03/24 18:51:28 [error] 22#22: *1 open() "/var/www/first.domain.com.conf/first.domain.com" failed (2: No such file or directory), client: 172.22.0.1, server: first.domain.com, request: "GET /first.domain.com HTTP/1.1", host: "localhost"
+2021/03/24 18:51:40 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.22.0.1, server: first.domain.com, request: "GET /index.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost"
+2021/03/24 18:51:40 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.22.0.1, server: first.domain.com, request: "GET /index.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost"
+2021/03/24 18:51:46 [error] 22#22: *1 "/var/www/first.domain.com.conf/index.php" is not found (2: No such file or directory), client: 172.22.0.1, server: first.domain.com, request: "GET / HTTP/1.1", host: "localhost"
+2021/03/24 18:51:52 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.22.0.1, server: first.domain.com, request: "GET /ddd.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost"
+2021/03/24 18:51:52 [error] 22#22: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.22.0.1, server: first.domain.com, request: "GET /ddd.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost"
+2021/03/24 18:51:56 [error] 22#22: *1 "/var/www/first.domain.com.conf/index.php" is not found (2: No such file or directory), client: 172.22.0.1, server: first.domain.com, request: "GET / HTTP/1.1", host: "localhost"
+2021/03/24 19:10:22 [error] 22#22: *6 "/var/www/first.domain.com.conf/index.php" is not found (2: No such file or directory), client: 172.22.0.1, server: first.domain.com, request: "GET / HTTP/1.1", host: "localhost"
+2021/03/24 19:10:23 [error] 22#22: *6 "/var/www/first.domain.com.conf/index.php" is not found (2: No such file or directory), client: 172.22.0.1, server: first.domain.com, request: "GET / HTTP/1.1", host: "localhost"
+2021/03/24 19:10:23 [error] 22#22: *6 "/var/www/first.domain.com.conf/index.php" is not found (2: No such file or directory), client: 172.22.0.1, server: first.domain.com, request: "GET / HTTP/1.1", host: "localhost"
+2021/03/24 19:10:24 [error] 22#22: *6 "/var/www/first.domain.com.conf/index.php" is not found (2: No such file or directory), client: 172.22.0.1, server: first.domain.com, request: "GET / HTTP/1.1", host: "localhost"
+2021/03/24 19:10:25 [error] 22#22: *6 "/var/www/first.domain.com.conf/index.php" is not found (2: No such file or directory), client: 172.22.0.1, server: first.domain.com, request: "GET / HTTP/1.1", host: "localhost"
+2021/03/24 19:10:25 [error] 22#22: *6 "/var/www/first.domain.com.conf/index.php" is not found (2: No such file or directory), client: 172.22.0.1, server: first.domain.com, request: "GET / HTTP/1.1", host: "localhost"
+2021/03/24 19:10:25 [error] 22#22: *6 "/var/www/first.domain.com.conf/index.php" is not found (2: No such file or directory), client: 172.22.0.1, server: first.domain.com, request: "GET / HTTP/1.1", host: "localhost"
+2021/03/24 19:10:26 [error] 22#22: *6 "/var/www/first.domain.com.conf/index.php" is not found (2: No such file or directory), client: 172.22.0.1, server: first.domain.com, request: "GET / HTTP/1.1", host: "localhost"
+2021/03/24 19:10:26 [error] 22#22: *6 "/var/www/first.domain.com.conf/index.php" is not found (2: No such file or directory), client: 172.22.0.1, server: first.domain.com, request: "GET / HTTP/1.1", host: "localhost"
+2021/03/24 19:10:26 [error] 22#22: *6 "/var/www/first.domain.com.conf/index.php" is not found (2: No such file or directory), client: 172.22.0.1, server: first.domain.com, request: "GET / HTTP/1.1", host: "localhost"
+2021/03/24 19:10:27 [error] 22#22: *6 "/var/www/first.domain.com.conf/index.php" is not found (2: No such file or directory), client: 172.22.0.1, server: first.domain.com, request: "GET / HTTP/1.1", host: "localhost"
+2021/03/24 19:10:27 [error] 22#22: *6 "/var/www/first.domain.com.conf/index.php" is not found (2: No such file or directory), client: 172.22.0.1, server: first.domain.com, request: "GET / HTTP/1.1", host: "localhost"
+2021/03/24 19:15:22 [error] 22#22: *7 "/var/www/first.domain.com.conf/index.php" is not found (2: No such file or directory), client: 172.22.0.1, server: first.domain.com, request: "GET / HTTP/1.1", host: "localhost"
+2021/03/24 20:29:31 [error] 22#22: *8 "/var/www/first.domain.com.conf/index.php" is not found (2: No such file or directory), client: 172.22.0.1, server: first.domain.com, request: "GET / HTTP/1.1", host: "localhost"
+2021/03/24 20:29:32 [error] 22#22: *8 open() "/var/www/first.domain.com.conf/favicon.ico" failed (2: No such file or directory), client: 172.22.0.1, server: first.domain.com, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2021/03/24 20:37:02 [error] 22#22: *9 "/var/www/first.domain.com.conf/index.php" is not found (2: No such file or directory), client: 172.22.0.1, server: first.domain.com, request: "GET / HTTP/1.1", host: "localhost"
+2021/03/24 20:37:05 [error] 22#22: *9 "/var/www/first.domain.com.conf/index.php" is not found (2: No such file or directory), client: 172.22.0.1, server: first.domain.com, request: "GET / HTTP/1.1", host: "localhost"
+2021/03/24 20:37:16 [error] 22#22: *9 connect() failed (111: Connection refused) while connecting to upstream, client: 172.22.0.1, server: first.domain.com, request: "GET /index.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost"
+2021/03/24 20:37:16 [error] 22#22: *9 connect() failed (111: Connection refused) while connecting to upstream, client: 172.22.0.1, server: first.domain.com, request: "GET /index.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost"
+2021/03/24 20:41:26 [error] 22#22: *12 connect() failed (111: Connection refused) while connecting to upstream, client: 172.22.0.1, server: first.domain.com, request: "GET /index.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost"
+2021/03/24 20:41:26 [error] 22#22: *12 connect() failed (111: Connection refused) while connecting to upstream, client: 172.22.0.1, server: first.domain.com, request: "GET /index.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost"
+2021/03/24 20:41:31 [error] 22#22: *12 "/var/www/first.domain.com.conf/index.php" is not found (2: No such file or directory), client: 172.22.0.1, server: first.domain.com, request: "GET / HTTP/1.1", host: "localhost"
+2021/03/24 20:43:09 [error] 22#22: *15 "/var/www/first.domain.com.conf/index.php" is not found (2: No such file or directory), client: 172.22.0.1, server: first.domain.com, request: "GET / HTTP/1.1", host: "localhost"
+2021/03/24 21:10:04 [emerg] 1#1: directive "root" is not terminated by ";" in /etc/nginx/conf.d/first.conf:9
+2021/03/24 21:10:06 [emerg] 1#1: directive "root" is not terminated by ";" in /etc/nginx/conf.d/first.conf:9
+2021/03/24 21:10:08 [emerg] 1#1: directive "root" is not terminated by ";" in /etc/nginx/conf.d/first.conf:9
+2021/03/24 21:10:10 [emerg] 1#1: directive "root" is not terminated by ";" in /etc/nginx/conf.d/first.conf:9
+2021/03/24 21:10:12 [emerg] 1#1: directive "root" is not terminated by ";" in /etc/nginx/conf.d/first.conf:9
+2021/03/24 21:10:14 [emerg] 1#1: directive "root" is not terminated by ";" in /etc/nginx/conf.d/first.conf:9
+2021/03/24 21:10:18 [emerg] 1#1: directive "root" is not terminated by ";" in /etc/nginx/conf.d/first.conf:9
+2021/03/24 21:10:26 [emerg] 1#1: directive "root" is not terminated by ";" in /etc/nginx/conf.d/first.conf:9
+2021/03/24 21:10:39 [emerg] 1#1: directive "root" is not terminated by ";" in /etc/nginx/conf.d/first.conf:9
+2021/03/24 21:11:06 [emerg] 1#1: directive "root" is not terminated by ";" in /etc/nginx/conf.d/first.conf:9
+2021/03/24 21:11:58 [emerg] 1#1: directive "root" is not terminated by ";" in /etc/nginx/conf.d/first.conf:9
+2021/03/24 21:12:59 [emerg] 1#1: directive "root" is not terminated by ";" in /etc/nginx/conf.d/first.conf:9
+2021/03/24 21:14:00 [emerg] 1#1: directive "root" is not terminated by ";" in /etc/nginx/conf.d/first.conf:9
+2021/03/24 21:15:01 [emerg] 1#1: directive "root" is not terminated by ";" in /etc/nginx/conf.d/first.conf:9
+2021/03/24 21:16:03 [emerg] 1#1: directive "root" is not terminated by ";" in /etc/nginx/conf.d/first.conf:9
+2021/03/24 21:17:04 [emerg] 1#1: directive "root" is not terminated by ";" in /etc/nginx/conf.d/first.conf:9
+2021/03/24 21:18:05 [emerg] 1#1: directive "root" is not terminated by ";" in /etc/nginx/conf.d/first.conf:9
+2021/03/24 21:19:06 [emerg] 1#1: directive "root" is not terminated by ";" in /etc/nginx/conf.d/first.conf:9
+2021/03/24 21:20:07 [emerg] 1#1: directive "root" is not terminated by ";" in /etc/nginx/conf.d/first.conf:9
+2021/03/24 21:21:08 [emerg] 1#1: directive "root" is not terminated by ";" in /etc/nginx/conf.d/first.conf:9
+2021/03/24 21:22:09 [emerg] 1#1: directive "root" is not terminated by ";" in /etc/nginx/conf.d/first.conf:9
+2021/03/24 21:23:10 [emerg] 1#1: directive "root" is not terminated by ";" in /etc/nginx/conf.d/first.conf:9
+2021/03/24 21:37:01 [error] 22#22: *3 open() "/var/www/first.domain.com.conf/favicon.ico" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "first.domain.com"
+2021/03/24 21:40:57 [error] 22#22: *5 open() "/var/www/first.domain.com.conf/favicon.ico" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "first.domain.com:443"
+2021/03/24 21:44:25 [warn] 1#1: conflicting server name "" on 0.0.0.0:80, ignored
+2021/03/24 21:47:28 [error] 23#23: *16 open() "/var/www/first.domain.com.conf/favicon.ico" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "www.first.domain.com:443"
+2021/03/24 21:52:07 [error] 23#23: *19 open() "/var/www/first.domain.com.conf/favicon.ico" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "second.domain.com"
+2021/03/24 22:04:40 [warn] 1#1: conflicting server name "" on 0.0.0.0:80, ignored
+2021/03/24 22:09:34 [warn] 1#1: conflicting server name "" on 0.0.0.0:80, ignored
+2021/03/24 22:10:54 [error] 23#23: *5 open() "/var/www/first.domain.com.conf/favicon.ico" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "www.second.domain.com:443"
+2021/03/24 22:11:27 [error] 23#23: *9 open() "/var/www/first.domain.com.conf/favicon.ico" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "first.domain.com:443"
+2021/03/24 22:12:01 [error] 23#23: *19 open() "/var/www/first.domain.com.conf/favicon.ico" failed (2: No such file or directory), client: 172.19.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "second.domain.com:443"
+2021/03/24 22:12:59 [warn] 1#1: conflicting server name "" on 0.0.0.0:80, ignored
